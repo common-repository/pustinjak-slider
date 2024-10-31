@@ -1,0 +1,67 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Pustinjak Slider\n"
+"POT-Creation-Date: 2017-03-13 16:40+0200\n"
+"PO-Revision-Date: 2017-03-13 16:40+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: pustinjak-slider.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#. Plugin Name of the plugin/theme
+#: inc/slider-customize.php:13 inc/slider-customize.php:19
+msgid "Pustinjak Slider"
+msgstr ""
+
+#: inc/slider-customize.php:21
+msgid ""
+"Pustinjak Slider. Contains 10 slides. When you upload image slider is "
+"activated."
+msgstr ""
+
+#: inc/slider-customize.php:192
+msgid "Slide Title Color"
+msgstr ""
+
+#: inc/slider-customize.php:205
+msgid "Slide Title Hover Color"
+msgstr ""
+
+#: inc/slider-customize.php:218
+msgid "Slide Background Color"
+msgstr ""
+
+#: inc/slider-customize.php:234 inc/slider-customize.php:244
+#: inc/slider-customize.php:256
+msgid "Slide "
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://seosthemes.com/pustinjak-slider"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Simple WordPress Plugin Image Slider. Go to Customize -> Pustinjak Slider "
+"and activate the slider."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "seosbg"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://seosthemes.com/"
+msgstr ""

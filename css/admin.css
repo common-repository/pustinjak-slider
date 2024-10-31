@@ -1,0 +1,14 @@
+#customize-control-slider_img1 .customize-control-title,
+#customize-control-slider_img2 .customize-control-title,
+#customize-control-slider_img3 .customize-control-title,
+#customize-control-slider_img4 .customize-control-title,
+#customize-control-slider_img5 .customize-control-title,
+#customize-control-slider_img6 .customize-control-title,
+#customize-control-slider_img7 .customize-control-title,
+#customize-control-slider_img8 .customize-control-title,
+#customize-control-slider_img9 .customize-control-title,
+#customize-control-slider_img10 .customize-control-title{
+	background: #333;
+	color: #FFF;
+	padding: 5px;
+}
